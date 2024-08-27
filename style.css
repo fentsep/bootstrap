@@ -1,0 +1,10 @@
+.col {
+    color: white;
+}
+
+hr {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: thick;
+}
